@@ -19,7 +19,7 @@ span {
   color: #febe01;
 }
 
-p {
+.indexp {
   color: #b2b2b2;
 }
 
@@ -34,4 +34,8 @@ a {
 
 h1 {
   text-align: center;
+}
+
+img {
+  max-width: 100%;
 }
